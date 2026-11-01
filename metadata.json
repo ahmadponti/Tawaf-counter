@@ -1,0 +1,6 @@
+{
+  "name": "Tawaf Counter - Umrah Circuit Tracker",
+  "description": "A polished iOS companion for pilgrims to track seven Tawaf circuits around the Kaaba with automatic motion/location estimation and manual one-handed controls.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
